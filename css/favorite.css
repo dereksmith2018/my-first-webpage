@@ -1,0 +1,28 @@
+h1{
+  color: Green;
+
+}
+
+h2{
+  color: blue;
+  text-align: center;
+}
+
+h3{
+  color: violet;
+  text-align: center;
+}
+
+ol{
+  font-family: cursive;
+}
+
+p{
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+ul{
+  font-size: 20px;
+  line-height: 30px;
+}
